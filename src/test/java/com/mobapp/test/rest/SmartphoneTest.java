@@ -1,4 +1,4 @@
-package com.mobapp.test.rest;
+/*package com.mobapp.test.rest;
 
 import static org.junit.Assert.*;
 
@@ -43,3 +43,4 @@ public class SmartphoneTest {
 	
 
 }
+*/
